@@ -45,7 +45,7 @@ document.getElementById("chat-summarize-btn-footer").addEventListener("click", f
 
 
   //////////////////FOR GEMINI////////////////////////
-  document.getElementById("gemini-summarize-btn-footer3").addEventListener("click", function () {
+  document.getElementById("gemini-summarize-btn-footer").addEventListener("click", function () {
     //const currentPageURL = window.location.href;
 
     // Construct the prompt with current page URL
