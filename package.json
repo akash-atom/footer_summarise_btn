@@ -1,0 +1,24 @@
+{
+  "name": "@aw-webflow/footer_summarise_btn",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-atom/footer_summarise_btn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash-atom/footer_summarise_btn/issues"
+  },
+  "homepage": "https://github.com/akash-atom/footer_summarise_btn#readme",
+  "dependencies": {
+    "parcel": "^2.16.1"
+  }
+}
